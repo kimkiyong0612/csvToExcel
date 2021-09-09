@@ -1,0 +1,6 @@
+# build
+csvToExcel
+
+# assets
+csv/**
+output/**
