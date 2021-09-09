@@ -4,3 +4,7 @@ csvToExcel
 # assets
 csv/**
 output/**
+
+
+# mac
+.DS_Store
