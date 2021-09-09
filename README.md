@@ -12,7 +12,7 @@ create file like this.
 └── output    <- created excel files
 ```
 
-### RUN 
+### Run
 ```
 go run main.go
 ```
